@@ -1,0 +1,16 @@
+{
+  "name": "webpack-loader-test",
+  "version": "1.0.0",
+  "description": "Learn the mechanism of webpack loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luwuer",
+  "license": "ISC",
+  "devDependencies": {
+    "loader-utils": "^2.0.0",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
